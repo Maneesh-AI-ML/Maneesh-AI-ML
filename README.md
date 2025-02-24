@@ -1,8 +1,8 @@
 # Hi, I'm Maneesh 👋  
-🚀 **PhD in Automation | Transitioning to AI & Data Science**  
+🚀 **PhD in Automation & Production Eng. | Transitioning to AI & Data Science**  
 📊 **Interests:** Machine Learning, Predictive Analytics, AI for Industry & Manufacturing  
 💡 **Skills:** Python, Pandas, Scikit-learn, TensorFlow, Data Visualization  
-🔍 **Currently Learning:** Deep Learning, NLP, AI for Supply Chain  
+🔍 **Currently Learning:** AI, ML, Data Science for Industry, Manufacturing & Supply Chain  
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/maneesh-ai-ml/)
 
 <!---
